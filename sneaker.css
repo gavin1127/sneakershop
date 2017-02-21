@@ -1,0 +1,169 @@
+*{
+  font-family: lato;
+}
+header{
+}
+.logo{
+  display: inline-block;
+  height: auto;
+  width: auto;
+}
+.navbar{
+  padding-left: 1%;
+  display: inline-block;
+  word-spacing: .35em;
+  text-transform: uppercase;
+}
+.under:hover{
+  border-bottom: 3px solid pink;
+}
+.my{
+  padding-left: %;
+}
+a{
+  color: #ff3300;
+  text-decoration: none;
+}
+.account{
+  float: right;
+  display: inline-block;
+  text-align: left;
+  padding-left: 43em;
+}
+.quickwhole{
+  margin-top: 1%;
+  margin-bottom: 5%;
+  background:-webkit-linear-gradient(left,#dc2430,#7b4397);
+  color: white;
+}
+.back{
+padding-left: 11%;
+color: white;
+}
+.back2{
+  color: white;
+}
+.shoe1{
+  display: inline-block;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 3%;
+  padding-bottom: 5%;
+  padding-right: auto;
+}
+.quicktext{
+  display: inline-block;
+  padding-right: 3%;
+  word-spacing: .25em;
+  letter-spacing: .05em;
+  line-height: 2.25em;
+}
+.quicktitle{
+  display: inline-block;
+  padding-bottom: 2%;
+}
+h1{
+  font-size: 250%;
+  margin-bottom: 0%;
+}
+.quickinfo{
+ padding-top: 3%;
+ padding-bottom:3%;
+ border-top: dashed 1.75px #4d004d;
+ border-bottom: dashed 1.75px #4d004d;
+}
+.price{
+  font-size: 200%;
+}
+button{
+font-size: 15px;
+padding:5%;
+width: 35%;
+border-radius: 10px;
+border: solid white 1px;
+background-color: white;
+color:#7b4397;
+}
+button:hover{
+  background-color: transparent;
+  color: white;
+}
+button:active{
+}
+.navbar2{
+  word-spacing: .25em;
+  font-size: 125%;
+  margin-left: 10%;
+  display: inline-block;
+  border-bottom: 1px solid pink;
+}
+.reviews{
+  display: inline;
+  padding-left: 800px;
+}
+.topics{
+  padding-left: 10%;
+  padding-bottom: 10%;
+}
+.reccomended{
+  text-align: center;
+  padding-top: .25%;
+  padding-bottom: .25%;
+  background:-webkit-linear-gradient(left,#70e1f5,#ffd194);
+  word-spacing: 1em;
+  font-weight: bold;
+}
+.sneakers{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  background:-webkit-linear-gradient(left,#dc2430,#7b4397);
+}
+.sneakerpics{
+  word-spacing: 10em;
+}
+.shoe2:hover{
+  width: 23%;
+  transition: all .25s ease-in-out .15s;
+}
+.shoe3:hover{
+  width: 23%;
+  transition: all .25s ease-in-out .15s;
+}
+.shoe4:hover{
+  width: 23%;
+  transition: all .25s ease-in-out .15s;
+}
+.sneakerInfo{
+  text-align: center;
+  letter-spacing: .15em;
+}
+.summer{
+  color: #4d004d;
+  font-weight: lighter;
+}
+.funny{
+  display: inline-block;
+  padding-right: 10%;
+  text-align: left;
+  color: white;
+}
+.Cool{
+  display: inline-block;
+  padding-right: 6%;
+  text-align: left;
+  color: white;
+}
+.Cute{
+  display: inline-block;
+  padding-left: 5%;
+  text-align: left;
+  color: white;
+}
+.logo2{
+  display: inline-block;
+}
+.navbar3{
+  display: inline-block;
+  word-spacing: 1em;
+}
